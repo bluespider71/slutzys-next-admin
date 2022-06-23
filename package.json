@@ -9,7 +9,7 @@
     "lint": "eslint \"{pages,src,server}/**/*.ts\" --fix && eslint \"{pages,src,server}/**/*.tsx\" --fix"
   },
   "dependencies": {
-    "antd": "^4.16.7",
+    "antd": "4.16.7",
     "antd-img-crop": "^3.14.3",
     "classnames": "^2.2.6",
     "dotenv": "^10.0.0",
